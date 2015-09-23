@@ -7,3 +7,7 @@ Central repo for the big Kahu collaboration!
 ###[canvas](https://github.com/kahu-collabs/canvas)
 
 ###[contributor](https://github.com/kahu-collabs/contributor)
+
+###commands
+
+1. "playDing" command plays a "ding" sound
