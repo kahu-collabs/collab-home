@@ -15,4 +15,5 @@ All lower case with hyphens separating words.
 
 ###commands
 
-1. "playDing" command plays a "ding" sound
+1. "play ding" command plays a "ding" sound
+2. "show picture pictureid" command shows an image
